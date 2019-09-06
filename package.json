@@ -1,0 +1,21 @@
+{
+  "name": "awscdk-resource_name_sample",
+  "version": "0.1.0",
+  "bin": {
+    "awscdk-resource_name_sample": "bin/awscdk-resource_name_sample.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "cdk": "cdk"
+  },
+  "devDependencies": {
+    "aws-cdk": "^1.7.0",
+    "ts-node": "^8.1.0",
+    "typescript": "~3.6.2"
+  },
+  "dependencies": {
+    "@aws-cdk/core": "^1.7.0",
+    "source-map-support": "^0.5.9"
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "app": "npx ts-node bin/awscdk-resource_name_sample.ts"
+}
